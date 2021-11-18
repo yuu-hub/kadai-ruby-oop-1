@@ -34,9 +34,9 @@ swallows = Team.new('Swallows', 41, 69, 10)
 
 
 # インスタンスの使用
-giants.show_team_result()
-tigers.show_team_result()
-dragons.show_team_result()
-baystars.show_team_result()
-carp.show_team_result()
-swallows.show_team_result()
+giants.show_team_result
+tigers.show_team_result
+dragons.show_team_result
+baystars.show_team_result
+carp.show_team_result
+swallows.show_team_result
